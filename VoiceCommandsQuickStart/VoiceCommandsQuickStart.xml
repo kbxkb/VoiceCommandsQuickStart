@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.2">
+  <CommandSet xml:lang="en-us" Name="CommandSet_en-us">
+    <CommandPrefix> Quick Start, </CommandPrefix>
+    <Example> Ask me something </Example>
+
+    <Command Name="HowManyStates">
+      <Example> How many states in the US? </Example>
+      <ListenFor> How many states [are] in [the] US </ListenFor>
+      <ListenFor> How many states [are] in the United States </ListenFor>
+      <Feedback> Looking for an answer </Feedback>
+      <Navigate/>
+    </Command>
+
+  </CommandSet>
+
+</VoiceCommands>
