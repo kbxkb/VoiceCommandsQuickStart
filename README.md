@@ -166,3 +166,4 @@ The app should launch on the AnswersPage and you should see and hear:
 Great, you now enabled a voice command that launches an app in the foreground. The app presents UI with the answer and uses Speech Synthesis to speak the answer.
 Let change the voice command to be handled by the app in the background and use Cortana’s canvas and screen to present the answer to the user.
 
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
